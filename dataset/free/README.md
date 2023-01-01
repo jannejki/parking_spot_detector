@@ -1,0 +1,1 @@
+This directory will contain images of free parking spots that will be used to teach AI.

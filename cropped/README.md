@@ -1,0 +1,1 @@
+This directory will contain cropped images of parking spots.

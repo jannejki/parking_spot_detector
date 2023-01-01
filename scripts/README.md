@@ -1,0 +1,1 @@
+This directory will contain all scripts that are needed to draw, cut and label individual parking spots from original parkin lot image, and scripts to teach and use Tensorflow image classification.
