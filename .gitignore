@@ -1,0 +1,7 @@
+cropped/*.png
+dataset/free/*.png
+dataset/occupied/*.png
+original_images/*/*.png
+original_images/*/*/*.png
+settings.json
+kuva.py
